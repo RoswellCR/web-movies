@@ -1,0 +1,20 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.letters{ 
+    font-size: 2rem;
+    color: cornsilk;
+    margin: 30px;
+    margin-bottom: 70px;
+}
+
+.image{ 
+/*padding: 30px;*/
+max-width: 100px;
+margin: 30px;
+}

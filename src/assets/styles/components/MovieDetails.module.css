@@ -1,0 +1,25 @@
+.MovieDetails{ 
+    display: flex;
+    justify-content: center;
+    /* flex-wrap: wrap; */
+}
+
+.col{
+    max-width: 400px;
+    margin: 15px;
+    height: auto;
+    height: 80%;
+}
+
+.MovieLetter{
+    color: azure;
+    font-size: 1.3rem;
+}
+
+.MovieImage{
+    border-radius: 10px;
+}
+
+/* .FirstItem{
+    margin-top: 0;
+} */

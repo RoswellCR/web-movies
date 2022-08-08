@@ -1,0 +1,7 @@
+.Letra{
+    display: flex;
+    justify-content: center;
+    font-size: 2rem;
+    color: chartreuse;
+    margin: 40px;
+}
